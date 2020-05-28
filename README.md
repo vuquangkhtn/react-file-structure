@@ -1,5 +1,7 @@
-# react-file-structure
+## react-file-structure
 File structure template for new project
+
+Our UI was built base on porfolio template of **Colorlib**. We can get the HTML template [here](https://colorlib.com/wp/template/credo/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
